@@ -1,1 +1,19 @@
-/* styles go here */
+.form-field {
+  display: block;
+}
+
+.field {
+  margin-bottom: 10px;
+}
+
+.field_0 {
+  margin-bottom: 14px;
+}
+
+.border {
+  margin-bottom: 20px;
+}
+
+.yes_no {
+  display: inline;
+}
